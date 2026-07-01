@@ -37,6 +37,7 @@ struct AddTaskView: View {
             }
         }
         .navigationTitle("New Task")
+        
         .toolbar {
             ToolbarItem {
                 Button("Cancel") {
